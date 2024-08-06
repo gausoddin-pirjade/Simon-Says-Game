@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 2rem 1.5rem;
+    border-radius: 20%;
+}
+.green {
+    background-color: #B4F8C8;
+}
+.yellow {
+    background-color: #FBE7C6;
+}
+.red {
+    background-color: #DB1F48;
+}
+.purple{
+    background-color: #C197D2;
+}
+
+.flash {
+    background-color: white;
+}
